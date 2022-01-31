@@ -2,7 +2,9 @@
 This is the documentation of the development of a Face Mask Detection System using Machine Learning.
 
 The project uses a command line interface and can run on any operating system.
- 
+
+
+Run the Face Mask detector.ipynb in the parent folder before running face_detector.py
 ---
 
 
